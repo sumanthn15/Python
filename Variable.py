@@ -1,4 +1,6 @@
-a= 12.3
+# Learning about varibles
+
+a= 123
 b= "Name"
 c = True
 d = None
